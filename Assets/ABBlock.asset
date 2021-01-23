@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9114890d23a65b090a31f9820b1aeb, type: 3}
+  m_Name: ABBlock
+  m_EditorClassIdentifier: 
+  subRules:
+  - {fileID: 11400000, guid: 96a2b962d3c50e0e89f656abb34da3c8, type: 2}
+  - {fileID: 11400000, guid: 258445c826e69e3929bf308f9febd445, type: 2}
+  prefab: {fileID: 0}
+  mesh: {fileID: 0}
+  upAxis: 1
+  outAxis: 2
+  horizontalAxis: 0
+  buildDirection: 3
+  size: 1
