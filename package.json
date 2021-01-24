@@ -1,0 +1,19 @@
+{
+    "name": "com.github.oparaskos.unity-building-tools",
+    "version": "0.1.0",
+    "displayName": "Simple Building Rules",
+    "description": "Simple tools to construct buildings from templates based on rules",
+    "unity": "2020.1",
+    "unityRelease": "15f1",
+    "keywords": [
+        "building",
+        "rules",
+        "template",
+        "construct",
+        "array"
+    ],
+    "author": {
+        "name": "Oliver Paraskos",
+        "url": "https://oliver.paraskos.me.uk"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Unity.SimpleBuildingRules.Editor",
+    "references": [
+        "SimpleBuildingRules"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
